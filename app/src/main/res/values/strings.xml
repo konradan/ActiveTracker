@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ActiveTracker</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_member">Already a member? Login</string>
+    <string name="hint_time">Time</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_calories">Calories Burned</string>
+    <string name="text_upload">Upload</string>
+    <string name="error_message_distance">Input your distance</string>
+    <string name="error_message_date">Input your date</string>
+    <string name="error_message_time">Input your training time</string>
+    <string name="error_message_calories">Input your burned calories</string>
+</resources>
